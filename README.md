@@ -37,7 +37,7 @@ The workflow of the Covid Station Box involves using body temperature sensors to
 
 ## MEMBER
 
-| Student ID | Name     | email address                |
+| Student ID | TH Name     | ENG Name                |
 | :-------- | :------- | :------------------------- |
 | 63-010126-3003-6 | ฐิตานันท์ มหาพรชัย    | Thitanun Mahapornchai |
 | 63-010126-3009-5 | นทณรรณ ศรีจันทร์      |   Nathanan Srijant |
